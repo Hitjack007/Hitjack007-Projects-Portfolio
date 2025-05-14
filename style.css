@@ -1,0 +1,58 @@
+body {
+
+font-family: Arial, sans-serif;
+
+text-align: center;
+
+background-color: lightblue;
+
+}
+
+
+h1 {
+
+color: darkblue;
+
+}
+
+
+a {
+
+font-size: 18px;
+
+color: white;
+
+background-color: darkblue;
+
+padding: 10px;
+
+text-decoration: none;
+
+border-radius: 5px;
+
+margin: 5px;
+
+}
+
+
+a:hover {
+
+background-color: navy;
+
+}
+
+
+img {
+
+border-radius: 10px;
+
+width: 300px;
+
+}
+
+
+h2 {
+
+margin-top: 50px;
+
+}
