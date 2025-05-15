@@ -1,5 +1,5 @@
-text = 'Input Your Decoded Message Here'
-shift = 3
+text = 'Message'#Input Mesage to be ciphered here#
+shift = 3 #This is teh shift value#
 
 def caesar(message, offset):
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
